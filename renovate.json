@@ -1,0 +1,8 @@
+{
+    "gitAuthor": "Renovate Bot <ServiceAccount.renovate@citrix.com>",
+    "requireConfig": false,
+    "onboarding": false,
+    "extends": [
+        "github>renovatebot/spring-remediations"
+    ]
+}
