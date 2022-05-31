@@ -3,6 +3,6 @@
     "requireConfig": false,
     "onboarding": false,
     "extends": [
-        "github>renovatebot/spring-remediations"
+        "github>whitesource/log4j-remediations"
     ]
 }
