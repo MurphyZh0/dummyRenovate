@@ -3,6 +3,6 @@
     "requireConfig": false,
     "onboarding": false,
     "extends": [
-        "github>whitesource/log4j-remediations",
+        "github>whitesource/log4j-remediations"
     ]
 }
